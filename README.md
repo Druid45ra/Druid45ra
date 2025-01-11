@@ -38,6 +38,6 @@ src="https://img.shields.io/github/followers/Druid45ra?logo=github&style=for-the
 
 <a href="https://github.com/Druid45ra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druid45ra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
+<b>Top Repositories</b>          
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
