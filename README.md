@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Radu Vanca
 ==================================================================================================================================
 
-Junior Software Engineer
+Software Engineer
 ------------------------
 
 I am a skilled and result oriented web developer with experience in designing, developing and maintaining websites and web applications. Proficiency in both front-end and back-end development with a solid foundation in web technologies, frameworks and best practices. Adept at collaborating with cross-functional teams to deliver high-quality, user-friendly and performance-optimized websites.
 
 * 🌍  I'm based in Bucharest
 * ✉️  You can contact me at [radu\_vanca@live.com](mailto:radu_vanca@live.com)
-* 🧠  I'm learning Python
+* 🧠  I master Python and use it daily to build robust APIs (FastAPI, Flask), automation tools and smart data-driven applications, as shown in my public repositories.
 * 🤝  I'm open to collaborating on Development of websites and web applications
 
 <a href="https://www.github.com/Druid45ra" target="_blank" rel="noreferrer"><img
