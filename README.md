@@ -13,7 +13,6 @@ I am a skilled and result oriented web developer with experience in designing, d
 
 <a href="https://www.github.com/Druid45ra" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Druid45ra?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-
 ### Skills
 
 
